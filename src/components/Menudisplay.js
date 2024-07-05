@@ -18,7 +18,7 @@ function Menudisplay({catagory}){
                     )
                 )
             )
-        }
+}
         </div>
 
     )
